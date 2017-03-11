@@ -1,0 +1,26 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Workflow with npm, sass and gulp etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnrobb/workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "GULP",
+    "Git",
+    "Workflow"
+  ],
+  "author": "Shawn Robb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnrobb/workflow/issues"
+  },
+  "homepage": "https://github.com/shawnrobb/workflow#readme"
+}
